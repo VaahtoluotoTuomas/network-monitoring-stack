@@ -41,7 +41,7 @@ A local Zabbix Agent 2 was installed and enabled to provide system-level checks:
 
 Custom dashboards were created to provide real-time visualization of critical system metrics. 
 
-![Zabbix Dashboard Overview](images/zabbix_dashboard.png)
+![Zabbix Dashboard Overview](files/monitoring.webp)
 *Figure 1: Dashboard showing real-time monitoring data.*
 
 * **Performance Tracking**: Widgets display real-time CPU usage, memory utilization, and network traffic.
@@ -50,7 +50,7 @@ Custom dashboards were created to provide real-time visualization of critical sy
 * **System Verification**: Active data flow is confirmed via the "Latest data" section.
 * **Availability Status**: Successful connectivity is verified by the green availability status for both the Zabbix Agent and SNMP-based hosts.
 
-![Host Availability](images/host_status.png)
+![Host Availability](files/availability.webp)
 *Figure 2: Green availability status indicators for both Agent and SNMP interfaces.*
 
 ---
