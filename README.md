@@ -1,8 +1,8 @@
 # 📊 Network Monitoring Stack: Zabbix & SNMP Integration
 
-This repository demonstrates the deployment and configuration of a robust network monitoring solution. It features a containerized **Zabbix** environment monitoring a Linux host through both **Zabbix Agent 2** and secure **SNMPv3** protocols.
+This is a homelab project where I deployed and configured a complete network monitoring stack. It features a containerized **Zabbix** environment monitoring a Linux host through both **Zabbix Agent 2** and secure **SNMPv3** protocols.
 
-## Key Technical Aspects of the Project
+## What I Built
 
 * **Hybrid Monitoring Strategy**: Implemented concurrent monitoring for both Zabbix Agent and SNMP targets on an Arch Linux host.
 * **SNMPv3 Security**: Configured secure SNMPv3 users utilizing **SHA** for authentication and **AES** for encryption, ensuring modern security standards.
@@ -54,4 +54,4 @@ Custom dashboards were created to provide real-time visualization of critical sy
 *Figure 2: Green availability status indicators for both Agent and SNMP interfaces.*
 
 ---
-*Disclaimer: This repository is part of a System Administration and Infrastructure Monitoring portfolio. All sensitive credentials have been anonymized.*
+*Note: This project was built as part of my System Administration and Infrastructure Monitoring studies. All sensitive credentials have been anonymized for public sharing.*
