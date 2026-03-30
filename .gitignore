@@ -1,0 +1,11 @@
+.env
+env-vars/
+**/.*_USER
+**/.*PASSWORD
+
+zbx_env/
+
+.DS_Store
+Thumbs.db
+
+*.log
